@@ -5,7 +5,6 @@ A responsive personal portfolio website developed using HTML, CSS, and JavaScrip
 ## Project Links
 
 -  [Live Demo](https://portfolio-vtg.vercel.app/)
--  [Project Folder](https://github.com/varuntg156/OIBSIP/tree/main/VARUN_T_G_Task2_Portfolio)
 
 ## Project Overview
 

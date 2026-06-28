@@ -5,7 +5,6 @@ A modern and responsive coffee shop landing page built using HTML, CSS, and Java
 ## Project Links
 
 -  [Live Demo](https://varuntg156.github.io/coffee-shop/)
--  [Project Folder](https://github.com/varuntg156/OIBSIP/tree/main/VARUN_T_G_Task1_Landing_Page)
 
 ## Features
 

@@ -5,7 +5,6 @@ A simple and responsive temperature conversion web application developed using H
 ## Project Links
 
 -  [Live Demo](https://temperatureconverter-vtg.vercel.app/)
--  [Project Folder](https://github.com/varuntg156/OIBSIP/tree/main/VARUN_T_G_Task3_Temperature_Converter)
 
 ## Project Overview
 
