@@ -1,12 +1,17 @@
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
 A responsive personal portfolio website developed using HTML, CSS, and JavaScript. This project showcases personal information, skills, projects, and contact details through a clean and modern interface.
 
-## 📌 Project Overview
+## Project Links
+
+-  [Live Demo](https://portfolio-vtg.vercel.app/)
+-  [Project Folder](https://github.com/varuntg156/OIBSIP/tree/main/VARUN_T_G_Task2_Portfolio)
+
+## Project Overview
 
 The Personal Portfolio Website serves as an online portfolio to present skills, achievements, and projects. It provides visitors with information about the developer and acts as a professional digital presence.
 
-## 🚀 Features
+## Features
 
 - Responsive design
 - About Me section
@@ -16,33 +21,34 @@ The Personal Portfolio Website serves as an online portfolio to present skills, 
 - Clean and modern layout
 - Smooth navigation
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Portfolio-App/
 │── index.html
 │── styles.css
 │── script.js
+│── Resume.pdf
 ```
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - Built a responsive personal website
 - Improved HTML and CSS design skills
 - Practiced JavaScript interactions
 - Learned website structure and organization
 
-## 👨‍💻 Internship Details
+## Internship Details
 
 **Internship:** Oasis Infobyte Web Development and Designing Internship  
 **Task:** Task 2 – Portfolio Website
 
-## 📜 License
+## License
 
 This project was developed for educational and internship purposes.
