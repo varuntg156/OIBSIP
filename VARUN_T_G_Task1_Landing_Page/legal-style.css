@@ -1,0 +1,46 @@
+/* ==========================================================================
+   Dedicated Legal Pages Layout (legal-style.css)
+   ========================================================================== 
+*/
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #faf4f5; /* Light pink background */
+}
+
+.legal-page-main {
+    flex: 1;
+    padding: 40px 20px; /* Controls top/bottom gaps explicitly */
+}
+
+.legal-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Centers the date cleanly below the underlined title */
+.legal-date {
+    font-size: var(--font-size-s);
+    color: #666;
+    font-style: italic;
+    text-align: center;
+    margin: -60px 0 40px 0; /* Negates the large bottom padding of your section-title */
+}
+
+.legal-section {
+    margin-bottom: 35px;
+}
+
+.legal-section h2 {
+    color: var(--primary-color);
+    font-size: var(--font-size-m);
+    margin-bottom: 12px;
+}
+
+.legal-section p {
+    font-size: var(--font-size-n);
+    line-height: 1.7;
+    color: var(--dark-color);
+}

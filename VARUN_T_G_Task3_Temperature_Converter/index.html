@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<title>Temperature Converter</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<main class="container">
+			<h1 class="title">Temperature Converter</h1>
+
+			<p class="lead">Enter a temperature, choose units, and press Convert.</p>
+
+			<form id="converter-form" class="converter" onsubmit="return false;">
+				<label class="label" for="temp-input">Temperature</label>
+				<input id="temp-input" type="text" inputmode="decimal" placeholder="e.g. 36.6" aria-label="Temperature input" />
+
+				<div class="row">
+					<div class="field">
+						<label class="label" for="from-unit">From</label>
+						<select id="from-unit" aria-label="Convert from unit">
+							<option value="c">Celsius (°C)</option>
+							<option value="f">Fahrenheit (°F)</option>
+							<option value="k">Kelvin (K)</option>
+						</select>
+					</div>
+
+					<div class="field">
+						<label class="label" for="to-unit">To</label>
+						<select id="to-unit" aria-label="Convert to unit">
+							<option value="f">Fahrenheit (°F)</option>
+							<option value="c">Celsius (°C)</option>
+							<option value="k">Kelvin (K)</option>
+						</select>
+					</div>
+				</div>
+
+				<div class="actions">
+					<button id="convert-btn" type="button">Convert</button>
+					<button id="swap-btn" type="button" class="muted">Swap</button>
+					<button id="clear-btn" type="button" class="muted">Clear</button>
+				</div>
+
+				<div id="output" class="output" aria-live="polite"></div>
+				<div id="error" class="error" role="status" aria-atomic="true"></div>
+			</form>
+		</main>
+
+		<script src="script.js" defer></script>
+	</body>
+</html>
+
