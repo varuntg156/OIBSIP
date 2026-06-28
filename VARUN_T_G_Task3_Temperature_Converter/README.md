@@ -4,7 +4,7 @@ A simple and responsive temperature conversion web application developed using H
 
 ## Project Links
 
--  [Live Demo](https://temperatureconverter-vtg.vercel.app/)
+**✨ See it in action:** Check out the [Live Demo](https://temperatureconverter-vtg.vercel.app/) to convert temperatures instantly!
 
 ## Project Overview
 

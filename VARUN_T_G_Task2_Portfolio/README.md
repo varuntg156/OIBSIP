@@ -4,7 +4,7 @@ A responsive personal portfolio website developed using HTML, CSS, and JavaScrip
 
 ## Project Links
 
--  [Live Demo](https://portfolio-vtg.vercel.app/)
+**✨ See it in action:** Check out my [Live Portfolio](https://portfolio-vtg.vercel.app/) to view my latest work and projects instantly!
 
 ## Project Overview
 
